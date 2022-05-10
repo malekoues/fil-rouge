@@ -167,7 +167,7 @@ La pipeline CI/CD réalise ce qui suit.
 - On consomme notre application installée dans le staging , on tape sur notre navigateur.
 
 ```
-    http://192.168.99.11/80
+    http://192.168.99.11:80
 ```
 
 ### Installation du binairer Heroku 
